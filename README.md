@@ -67,24 +67,23 @@ Managing expenses across various categories like rent, food, and shopping can be
 ### 1. **Add/Update**
 Users can add new expenses or update existing ones by selecting a date and entering the amount, category and an optional notes.
 
-![Add or Update](<img width="954" height="731" alt="add_update_ui" src="https://github.com/user-attachments/assets/cf560e6d-c3a0-4456-945e-17d27806898c" />
-)
+<img width="954" height="731" alt="add_update_ui" src="https://github.com/user-attachments/assets/fe8cd29f-5585-4331-84a1-44374a7040b4" />
+
 
 ---
 
 ### 2. **Analytics by Category**
 Generates visualizations of spending by category within a custom date range.
 
-![Analytics by Category](<img width="616" height="759" alt="analytics_by_category" src="https://github.com/user-attachments/assets/f7f3906c-b9a0-4300-b516-d3fe63787ffb" />
-)
+<img width="616" height="759" alt="analytics_by_category" src="https://github.com/user-attachments/assets/f58f0773-3029-461d-8aa0-92c03328dd06" />
 
 ---
 
 ### 3. **Analytics by Months**
 Shows monthly trends of spending across all categories.
 
-![Analytics by Months](<img width="617" height="823" alt="analytics_by_month" src="https://github.com/user-attachments/assets/a25bc7b3-b461-4a7b-a56a-577f93ee1638" />
-)
+<img width="617" height="823" alt="analytics_by_month" src="https://github.com/user-attachments/assets/03f918ce-fc63-4fdf-b934-f5d6ee7332b7" />
+
 
 ---
 
